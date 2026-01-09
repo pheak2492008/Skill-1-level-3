@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+# Ignore Spring Boot properties with sensitive data
+application.properties
+.env
+application.yml
